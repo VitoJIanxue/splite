@@ -16,6 +16,8 @@
 static sqlite3 * db = nil;
 @implementation ViewController
 
+//添加注释
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
